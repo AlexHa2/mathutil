@@ -20,7 +20,7 @@ public class MathUtinity {
     //nếu 0! = 1;
     public static long getFactorial(int n) {
      
-        long product = 1;// biến con heo đát , biến nhân dồn
+        long product = 10;// biến con heo đát , biến nhân dồn
         
         if( n < 0 || n > 20){
             throw new IllegalArgumentException("Invalid n. n must be between 0...20");
