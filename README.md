@@ -1,3 +1,6 @@
+[![Math Utility project(CI included)](https://github.com/AlexHa2/mathutil/actions/workflows/maven.yml/badge.svg)](https://github.com/AlexHa2/mathutil/actions/workflows/maven.yml)
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff
