@@ -7,7 +7,8 @@
 
 * A Java Project (using Maven) to demonstrate a math library as in JDK
 * A Unit Test script using JUnit Test framework, and TDD, DDT teachnique
-* A CI script to demostrate the Continous Integration using GitHub Actions
+* A CI script to demostrate the Continous Integration using GitHub Actions with Maven
+* A demonstration on how to produce conflition and how to merge the code within a teamwork
 * and more.....
 
 ## Screenshots
