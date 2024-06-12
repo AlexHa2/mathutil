@@ -12,18 +12,21 @@ import javax.swing.JOptionPane;
  */
 public class Mathutil {
 
+    public static void SayHiFromLocal() {
+        
+    }
+
     public static void main(String[] args) {
         // cách kiêm thử thứ 2 - giống cách 1
         // test case #1: check if 0! return 1
         int n = 0;
         long expectedResult = 1;// 0! == 1
         long actualResult = MathUtinity.getFactorial(n);
-        
+
         String msg = "0! | expected: " + expectedResult + " Actual: " + actualResult;
-        JOptionPane.showMessageDialog(null,msg);
+        JOptionPane.showMessageDialog(null, msg);
     }
-    
-   
+
 //    public static void main(String[] args) {
 //        // đây là nơi test han
 //        // viết các test case: bọ data vào và giá trị kì vong
