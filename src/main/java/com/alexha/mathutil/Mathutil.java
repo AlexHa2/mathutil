@@ -12,6 +12,8 @@ import javax.swing.JOptionPane;
  */
 public class Mathutil {
 
+    //this method  is  written directly  in server to simulate the work of another teammemer, he upload code  before me
+    public static void SayHiFromServer(){}
     public static void main(String[] args) {
         // cách kiêm thử thứ 2 - giống cách 1
         // test case #1: check if 0! return 1
